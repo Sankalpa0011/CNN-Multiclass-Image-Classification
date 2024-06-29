@@ -1,9 +1,7 @@
-
 ---
 # Computer Vision Project
 ---
-
-```
+```markdown
 # Computer Vision Project
 
 ## **Download And Extract The Dataset**
@@ -92,4 +90,4 @@ Visualizing the results and performance metrics of the model.
 
 This project demonstrates the process of building a computer vision model using CNNs and various deep learning techniques. The model is trained and evaluated on a dataset of images, with the results visualized for better understanding.
 
-```
+---
