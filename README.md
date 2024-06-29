@@ -3,7 +3,7 @@
 # Computer Vision Project
 ---
 
-```markdown
+```
 # Computer Vision Project
 
 ## **Download And Extract The Dataset**
