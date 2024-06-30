@@ -1,9 +1,6 @@
 ---
 # Computer Vision Project
 ---
-```markdown
-# Computer Vision Project
-
 ## **Download And Extract The Dataset**
 
 This project focuses on building a computer vision model using various deep learning techniques and libraries.
